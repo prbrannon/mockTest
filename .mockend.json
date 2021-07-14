@@ -1,8 +1,30 @@
 {
-  "images": 
-  {
-    "label": "front", 
-    "url": "https://www.mediafire.com/file/uqe2qenmn71v4z0/Giroux_200DPI_v210624r1-DB.bmp/file"
+  "Post": {
+    "title": {
+      "string": {}
+    },
+    "views": {
+      "int": { "min": 0, "max": 9000 }
+    },
+    "published": {
+      "boolean": {}
+    },
+    "createdAt": {
+      "dateTime": {
+        "min": "2010-01-01T00:00:00Z",
+        "max": "2020-12-31T23:59:59Z"
+      }
+    },
+    "comments": {
+      "hasMany": "Comment"
+    }
   },
-  "product_type": "pilsner_glass"
+  "Comment": {
+    "body": {
+      "string": {}
+    },
+    "post": {
+      "belongsTo": "Post"
+    }
+  }
 }
