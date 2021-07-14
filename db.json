@@ -1,10 +1,10 @@
 {
-  "posts": [
+  "posts": [ {
     "images":
     {
-    "label": "front", 
-    "url": "https://www.mediafire.com/file/uqe2qenmn71v4z0/Giroux_200DPI_v210624r1-DB.bmp/file"
+      "label": "front", 
+      "url": "https://www.mediafire.com/file/uqe2qenmn71v4z0/Giroux_200DPI_v210624r1-DB.bmp/file"
     },
-"product_type": "pilsner_glass"
-]
+    "product_type": "pilsner_glass"
+  } ]
 }
