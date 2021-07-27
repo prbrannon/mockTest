@@ -1,17 +1,17 @@
 {
   "posts": [
     {
-      "product_type": "pilsner_glass",
+      "product_type": "full automated 400 dpi pilsner",
       "images": {
         "label": "front",
-        "url": "https://www.mediafire.com/file/uqe2qenmn71v4z0/Giroux_200DPI_v210624r1-DB.bmp/file"
+        "url": "https://www.mediafire.com/view/4vrq3lujkpp5mtk/Pint7.bmp/file"
       }
     },
     {
-      "product_type": "glass2",
+      "product_type": "full automated 400 dpi mixing",
       "images": {
         "label": "front",
-        "url": "https://www.mediafire.com/file/uqe2qenmn71v4z0/Giroux_200DPI_v210624r1-DB.bmp/file"
+        "url": "https://www.mediafire.com/view/4vrq3lujkpp5mtk/Pint7.bmp/file"
       }
     }
   ],
