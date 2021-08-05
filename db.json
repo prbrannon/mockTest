@@ -1,21 +1,21 @@
 {
   "posts": [
     {
-      "product_type": "full automated Pilsner 1 layer job",
+      "product_type": "pilsner",
       "images": {
         "label": "front",
         "url": "https://www.mediafire.com/file/jdex3qc5rmzdenf/pilsnerGlass_fatLaser_MECH.bmp"
       }
     },
     {
-      "product_type": "full automated Mixing 1 layer job",
+      "product_type": "pint",
       "images": {
         "label": "front",
         "url": "https://www.mediafire.com/file/y48fvlckym8083v/000025339173-7015248_1541597-1059673--8837360s0--canvas.bmp"
       }
     },
     {
-      "product_type": "full automated Stemless 1 layer job",
+      "product_type": "stemless",
       "images": {
         "label": "front",
         "url": "https://www.mediafire.com/file/0c0bcmpy1b1prp5/000025339173-9015148_1541377-1058920--8836431s0--canvas.bmp"
