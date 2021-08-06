@@ -1,21 +1,21 @@
 {
   "posts": [
     {
-      "product_type": "pilsner",
+      "product_type": "etched_pilsner_glass",
       "images": {
         "label": "front",
         "url": "https://www.mediafire.com/file/phxfg43jp05bga0/4c88940b-29da-405c-8ce1-21ca3212bfe9-magic.bmp"
       }
     },
     {
-      "product_type": "pint",
+      "product_type": "etched_pint_glass",
       "images": {
         "label": "front",
         "url": "https://www.mediafire.com/file/y48fvlckym8083v/000025339173-7015248_1541597-1059673--8837360s0--canvas.bmp"
       }
     },
     {
-      "product_type": "stemless",
+      "product_type": "etched_wine_glass",
       "images": {
         "label": "front",
         "url": "https://www.mediafire.com/file/0c0bcmpy1b1prp5/000025339173-9015148_1541377-1058920--8836431s0--canvas.bmp"
